@@ -24,3 +24,16 @@ welsh: xx, xx, tt, ee, ww
 english: ee, tr, rr, rr, rr
 ```
 
+Completion Criteria:
+--------------------
+
+The program must perform the specified function and produce correct output
+
+The program must be free of bugs.
+
+All of your work must be committed back to GitHub.
+
+Your reward:
+------------
+
+£10 if you are able to complete this assignment with minimum help.

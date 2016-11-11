@@ -16,6 +16,7 @@ def print_result(result:Mapping[str,List[str]])->None:
     :param result: Mapping of language name to the most common bigrams
     :return:
     """
+
     print("Hello!")
 
 def main(number: int=5):
