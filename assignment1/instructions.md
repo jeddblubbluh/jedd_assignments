@@ -8,8 +8,19 @@ a number of new concepts such as:
 * Reading in files
 * Counting data
 * Printing out results
+* Writing and calling functions
+* Iterating over text
+* Slicing text
 
 Your challenge:
 ---------------
 
-Make a
+Use the txt files in this directory to calculate the five most common bigrams in English and Welsh. 
+
+When you run your script, it should produce output that resembles the following:
+
+```
+welsh: xx, xx, tt, ee, ww
+english: ee, tr, rr, rr, rr
+```
+
